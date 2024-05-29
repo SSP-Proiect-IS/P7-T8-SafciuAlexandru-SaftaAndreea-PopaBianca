@@ -1,0 +1,135 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UFT-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="/css/CreateEvent.css">
+</head>
+
+<body class="create-background">
+
+
+
+    <div class="hero">
+
+        <nav>
+            <img src="~/img/Screenshot_2024-05-07_185200-removebg-preview.png" class="logo">
+           @*  <ul>
+                <li><a href="#"><img src="img/home.png"></a></li>
+                <li><a href="InboxPage.html"><img src="img/inbox.png"></a></li>
+
+            </ul>
+
+            <img src="img/woman.png" class="user-pic" onclick="toggleMenu()">
+
+
+            <div class="sub-menu-wrap" id="subMenu">
+                <div class="sub-menu">
+                    <div class="user-info">
+                        <img src="img/woman.png" class="pic">
+                        <h1>Elena - user</h1>
+                    </div>
+                    <hr>
+
+                    <a href="proiect.html" class="sub-menu-link">
+                        <img src="img/logout_20dp_FILL0_wght400_GRAD0_opsz20.png">
+
+                        <p>Logout</p>
+
+                    </a>
+
+                    <a href="#" class="sub-menu-link">
+                        <img src="img/user.png">
+                        <p>Edit Profile</p>
+                    </a>
+
+                </div>
+            </div>
+ *@
+        </nav>
+
+
+        <div class="container">
+            <form id="eventForm">
+                <div class="input-box">
+                    <label for="eventName">Event Name:</label>
+                    <input type="text" id="eventName" name="eventName" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="creatorName">Creator Name:</label>
+                    <input type="text" id="creatorName" name="creatorName" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="country">Country:</label>
+                    <input type="text" id="country" name="country" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="city">City:</label>
+                    <input type="text" id="city" name="city" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="price">Price:</label>
+                    <input type="text" id="price" name="price" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="location">Location:</label>
+                    <input type="text" id="location" name="location" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="dateTime">Date and Time:</label>
+                    <input type="datetime-local" id="dateTime" name="dateTime" required><br>
+                </div>
+
+                <div class="input-box">
+                    <label for="resources">Resources:</label>
+
+                   @*  <button type="button" onclick="openResourcesPage()">Select Resources</button><br> *@
+                   @*  <a href="Resources" class="select">Select Resources</a> *@
+                    <button class="buton-select"><a href="Resources"style="text-decoration:none;color:#000;">Select Resources</a> </button>
+                   
+                </div>
+
+                <div class="input-box">
+                    <label for="description">Description:</label>
+                    <textarea id="description" name="description" rows="4" required></textarea><br>
+                </div>
+
+                <div class="input-box">
+                    <div class="upload-file">
+                        <input type="file" id="uploadBtn">
+
+                        <label for="uploadBtn">Choose Background Picture</label>
+
+                    </div>
+                </div>
+
+                <button type="submit" class="btn">Add Event</button>
+
+            </form>
+        </div>
+
+       @*  <script>
+
+            let subMenu = document.getElementById("subMenu");
+            function toggleMenu() {
+                subMenu.classList.toggle("open-menu");
+            }
+        </script> *@
+</body>
+
+</html>

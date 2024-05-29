@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasHub", "CanvasHub.csproj", "{1242E109-927F-4638-9F08-1E6725ABFCC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasHub.Tests", "..\CanvasHub.Tests\CanvasHub.Tests.csproj", "{D89F5428-C52B-45F5-BB80-FC4A34ED7282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1242E109-927F-4638-9F08-1E6725ABFCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242E109-927F-4638-9F08-1E6725ABFCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242E109-927F-4638-9F08-1E6725ABFCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242E109-927F-4638-9F08-1E6725ABFCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89F5428-C52B-45F5-BB80-FC4A34ED7282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89F5428-C52B-45F5-BB80-FC4A34ED7282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89F5428-C52B-45F5-BB80-FC4A34ED7282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89F5428-C52B-45F5-BB80-FC4A34ED7282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C581EB-A5B1-4B25-806D-CBAB94A650E4}
+	EndGlobalSection
+EndGlobal

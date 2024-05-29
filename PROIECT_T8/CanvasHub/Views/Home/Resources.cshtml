@@ -1,0 +1,184 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/css/Resources.css">
+
+</head>
+<body class="background-resources">
+
+    <div class="Navbar">
+        <nav>
+            <img src="~/imgBia/Screenshot_2024-05-07_185200-removebg-preview.png" class="logo">
+
+            <div class="search-bar">
+                <input type="text" id="searchInput" onkeyup="searchResources()" placeholder="Search for resources...">
+            </div>
+            <div class="message">
+                <p>Add Resource</p>
+            </div>
+          <div class="add-resource">
+                <a href="AddResource"><img src="~/imgBia/add.png"style="width:25px; height:25px;"></img></a>
+          </div>
+
+          
+        </nav>
+    </div>
+
+    <script>
+        let subMenu = document.getElementById("subMenu");
+
+        function toggleMenu() {
+            if (subMenu.classList.contains("open-menu")) {
+                subMenu.classList.remove("open-menu");
+            } else {
+                subMenu.classList.add("open-menu"); 
+            }
+        }
+
+        function searchResources() {
+            let input = document.getElementById('searchInput').value.toLowerCase();
+            let contents = document.getElementsByClassName('content');
+
+            Array.from(contents).forEach(function (content) {
+                let text = content.textContent.toLowerCase();
+                if (text.includes(input)) {
+                    content.style.display = 'block';
+                } else {
+                    content.style.display = 'none';
+                }
+            });
+        }
+    </script>
+
+    <div class="resources">
+        <div class="content">
+            <h3>Classic Chair</h3>
+            <img src="~/imgBia/chair1.jpg">
+            <p>Pack of 50 chairs. These Classic Chair Rentals are great quality chairs for any indoor or outdoor party, gathering or event. These chairs are lightweight yet strong and can comfortably seat people of many different sizes.</p>
+            <h6>$100</h6>
+         
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="Resource1" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+          
+        </div>
+
+        <div class="content">
+            <h3>Transparent Chair</h3>
+            <img src="~/imgBia/chair2.jpg">
+            <p>Pack of 50 chairs. The clear plastic variant of the Chiavari chairs, which enhances its style and gives the impression of lightness. A chair of this type offers a wide usability, from households to social and ceremonial halls</p>
+            <h6> $2145</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="Resource2" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Chivari Chair</h3>
+            <img src="~/imgBia/chair3.jpg">
+            <p>Pack of 50 chairs. A black chiavari ballroom style chair is among our wide and deep variety of rental chair seating that makes an ideal choice for your party, wedding reception, banquet or special event.</p>
+            <h6> $400 </h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="Resource3" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Dreamy Art Installations</h3>
+            <img src="~/imgBia/lights2.jpg">
+            <p>A work of art created by our artists that will make your event very special. </p>
+            <h6> $500</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Vibrant and Elegant Led Lights</h3>
+            <img src="~/imgBia/lights1.jpg">
+            <p>Neon lights filled the room constantly changing colors.</p>
+            <h6>$499</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Ruby Glow</h3>
+            <img src="~/imgBia/lights 5.jpg">
+            <p>Transform your space into an oasis of elegance and mystery with the "Ruby Glow" red LED lights set. These lights are not just a source of illumination but also a captivating design element that will add a distinctive touch to any décor.</p>
+            <h6> $300</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Azure Aura</h3>
+            <img src="~/imgBia/lights3.jpg">
+            <p>Illuminate your surroundings with the serene and captivating glow of the "Azure Aura" blue LED lights set. Designed to evoke a sense of tranquility and sophistication, these blue lights add a touch of elegance to any space.</p>
+            <h6> $300</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+
+        <div class="content">
+            <h3>The Electoral Palace</h3>
+            <img src="~/imgBia/location1.jpg">
+            <p>This fantastic venue in Mainz offers an exclusive and exceptional setting for an event. The beautiful palace, which belongs to the Renaissance buildings, is located close to the city center and the Rhine."</p>
+            <h6> $500</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+
+        <div class="content">
+            <h3> Outdoor art gallery</h3>
+            <img src="~/imgBia/location2.jpg">
+            <p>Step into a realm where creativity intertwines seamlessly with the beauty of nature at our enchanting outdoor art gallery place.</p>
+            <h6> $150</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>The Lume</h3>
+            <img src="~/imgBia/location4.jpg">
+            <p>THE LUME Melbourne is guaranteed to deliver the WOW factor at your next networking breakfast, gala dinner or cocktail party. With exclusive access to Australia’s first permanent digital art gallery, your guests will be treated to a truly unforgettable immersive experience in this unique Melbourne venue.</p>
+            <h6> $300</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+        <div class="content">
+            <h3>Vancouver Event Rental Location</h3>
+            <img src="~/imgBia/location5.jpg">
+            <p>Unique & modern venue for your next event. Host weddings, business events, photoshoots, gala events, filming & more.</p>
+            <h6> $300</h6>
+            <a href="#" class="Add-to-event">Add to event</a>
+            <a href="#" class="View">View</a>
+            <a href="#" class="Remove">Remove</a>
+        </div>
+
+    </div>
+
+
+</body>
+</html>

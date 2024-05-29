@@ -1,0 +1,49 @@
+﻿@model CanvasHub.Models.EventInvitation
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EventInvitation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EventInvitationId" class="control-label"></label>
+                <input asp-for="EventInvitationId" class="form-control" />
+                <span asp-validation-for="EventInvitationId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusInvitation" class="control-label"></label>
+                <input asp-for="StatusInvitation" class="form-control" />
+                <span asp-validation-for="StatusInvitation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventId" class="control-label"></label>
+                <select asp-for="EventId" class="form-control" asp-items="ViewBag.EventId"></select>
+                <span asp-validation-for="EventId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MessageId" class="control-label"></label>
+                <select asp-for="MessageId" class="form-control" asp-items="ViewBag.MessageId"></select>
+                <span asp-validation-for="MessageId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

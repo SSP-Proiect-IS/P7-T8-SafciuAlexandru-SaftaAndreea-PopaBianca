@@ -1,0 +1,765 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UFT-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="/css/EventsPage.css">
+</head>
+
+<body class="event-background">
+
+    <div class="hero">
+
+        <nav>
+            <img src="~/img/Screenshot_2024-05-07_185200-removebg-preview.png" class="logo">
+
+            <div class="message">
+                <p>Add Event</p>
+            </div>
+            <div class="add-event">
+                <a href="CreateEvent"><img src="~/imgBia/add.png" style="width:25px; height:25px;"></img></a>
+            </div>
+
+            @* <ul>
+                <li><a href="#"><img src="img/home.png"></a></li>
+                <li><a href="MemberInbox.html"><img src="img/inbox.png"></a></li>
+
+            </ul>
+
+            <img src="img/man.png" class="user-pic" onclick="toggleMenu()">
+
+
+            <div class="sub-menu-wrap" id="subMenu">
+                <div class="sub-menu">
+                    <div class="user-info">
+                        <img src="img/man.png" class="pic">
+                        <h1>Eliot - member</h1>
+                    </div>
+                    <hr>
+
+                    <a href="proiect.html" class="sub-menu-link">
+                        <img src="img/logout_20dp_FILL0_wght400_GRAD0_opsz20.png">
+                        <p>Logout</p>
+                    </a>
+
+                    <a href="#" class="sub-menu-link">
+                        <img src="img/user.png">
+                        <p>Edit Profile</p>
+                    </a>
+
+
+
+                </div>
+            </div> *@
+
+        </nav>
+
+
+        
+
+        @* <div class="buton">
+            <a href="CreateEventMember.html" class="btn">Create Event</a>
+        </div> *@
+
+        <div class="containerEvent">
+
+
+            <div class="group">
+                <!--Event 1-->
+                   <div class="item-container1">
+                       <div class="img-container1">
+                        <img src="~/img/red.jpg" alt="Event image">
+                       </div>
+
+
+
+                       <div class="body-container1">
+                           <div class="overlay1"></div>
+
+                           <div class="event-info1">
+                               <p class="title1">  Wine and Painting</p>
+                               <div class="separator1"></div>
+                               <p class="info1">Bucharest, Romania</p>
+                               <p class="price1">100$</p>
+
+                               <div class="additional-info1">
+                                   <p class="info1">
+                                       <i class="fas fa-map-marker-alt"></i>
+                                       Juniper Way Street no. 23
+                                   </p>
+                                   <p class="info1">
+                                       <i class="far fa-calendar-alt"></i>
+                                       Thur, July 04, 7:00 PM
+                                   </p>
+
+                                   <p class="info-description1">
+                                       Experience a unique night of wine and painting in a relaxing and inspiring environment.
+                                       <span><a href="SingleEvent">more...</a></span>
+                                   </p>
+                               </div>
+                           </div>
+                           <button class="action1">Book it</button>
+                           <button id="remove"  class="action2">Delete Event</button>
+                       </div>
+                   </div>
+                <!----Event 2-->
+
+                <div class="item-container2">
+                    <div class="img-container2">
+                        <img src="~/img/pink.jpg" alt="Event image">
+                    </div>
+
+                    <div class="body-container2">
+                        <div class="overlay2"></div>
+
+                        <div class="event-info2">
+                            <p class="title2">  Depths of Visual Artst</p>
+                            <div class="separator2"></div>
+                            <p class="info2">Bucharest, Romania</p>
+                            <p class="price2">70$</p>
+
+                            <div class="additional-info2">
+                                <p class="info2">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    Green Way Street no. 9
+                                </p>
+                                <p class="info2">
+                                    <i class="far fa-calendar-alt"></i>
+                                    Sun, Nove 10, 10:00 AM
+                                </p>
+
+                                <p class="info-description2">
+                                    Enhance your artistic skills in an intensive workshop focused on advanced oil painting techniques.
+                                    <span><a href="#">more...</a></span>
+                                </p>
+                            </div>
+                        </div>
+                        <button class="action3">Book it</button>
+                        <button id="remove2" class="action4">Delete Event</button>
+                    </div>
+                </div>
+
+                <!---Event 3-->
+                <div class="item-container3">
+                    <div class="img-container3">
+                        <img src="~/img/white.jpg" alt="Event image">
+                    </div>
+
+                    <div class="body-container3">
+                        <div class="overlay3"></div>
+
+                        <div class="event-info3">
+                            <p class="title3"> Art and Jazz Night </p>
+                            <div class="separator3"></div>
+                            <p class="info3">Bucharest, Romania</p>
+                            <p class="price3">140$</p>
+
+                            <div class="additional-info3">
+                                <p class="info3">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    Phoenix Avenue Street no. 20
+                                </p>
+                                <p class="info3">
+                                    <i class="far fa-calendar-alt"></i>
+                                    Sat, Oct 3, 5:00 PM
+                                </p>
+
+                                <p class="info-description3">
+                                    Enjoy an exciting night of art and live music in an elegant and sophisticated setting.
+                                    <span><a href="#">more...</a></span>
+                                </p>
+
+
+                            </div>
+                        </div>
+                        <button class="action5">Book it</button>
+                        <button id="remove3" class="action6">Delete Event</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!---Event 4-->
+        <div class="group">
+         <div class="item-container4">
+             <div class="img-container4">
+                    <img src="~/img/yellow.jpg" alt="Event image">
+             </div>
+
+             <div class="body-container4">
+                 <div class="overlay4"></div>
+
+                 <div class="event-info4">
+                     <p class="title4">Open Painting Session</p>
+                     <div class="separator4"></div>
+                     <p class="info4">Bucharest, Romania</p>
+                     <p class="price4">200$</p>
+
+                     <div class="additional-info4">
+                         <p class="info4">
+                             <i class="fas fa-map-marker-alt"></i>
+                             Jade Row Street no. 100
+                         </p>
+                         <p class="info4">
+                             <i class="far fa-calendar-alt"></i>
+                             Mon, Mar 13, 11:00 AM
+                         </p>
+
+
+                         <p class="info-description4">
+                             Sign up for an open painting session where you can explore creativity in a communal and stimulating environment.
+                             <span><a href="#">more...</a></span>
+                         </p>
+                     </div>
+                 </div>
+                 <button class="action7">Book it</button>
+                 <button id="remove4" class="action8">Delete Event</button>
+             </div>
+         </div>
+
+        <!---Event 5-->
+        <div class="group">
+            <div class="item-container5">
+                <div class="img-container5">
+                        <img src="~/img/blue.jpg" alt="Event image">
+                </div>
+
+
+
+
+                <div class="body-container5">
+                    <div class="overlay5"></div>
+
+                    <div class="event-info5">
+                        <p class="title5"> Redefining creativity</p>
+                        <div class="separator5"></div>
+                        <p class="info5">Bucharest, Romania</p>
+                        <p class="price5">165$</p>
+
+                        <div class="additional-info5">
+                            <p class="info5">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Liberty Street  no. 50
+                            </p>
+                            <p class="info5">
+                                <i class="far fa-calendar-alt"></i>
+                                Thur, July 04, 2:00 PM
+                            </p>
+
+
+                            <p class="info-description5">
+                                Explore the innovative works of local and international contemporary artists at <!---our contemporary art exhibition.-->
+                                <span><a href="#">more...</a></span>
+                            </p>
+                        </div>
+                    </div>
+                    <button class="action9">Book it</button>
+                    <button id="remove5" class="action10">Delete Event</button>
+                </div>
+            </div>
+        </div>
+
+        <!---Event 6-->
+        <div class="item-container6">
+             <div class="img-container6">
+                    <img src="~/img/black.jpg" alt="Event image">
+             </div>
+
+
+
+
+             <div class="body-container6">
+                 <div class="overlay6"></div>
+
+                 <div class="event-info6">
+                     <p class="title6">  Shapes and Textures</p>
+                     <div class="separator6"></div>
+                     <p class="info6">Bucharest, Romania</p>
+                     <p class="price6">350$</p>
+
+                     <div class="additional-info6">
+                         <p class="info6">
+                             <i class="fas fa-map-marker-alt"></i>
+                             Bury Lane Street no. 10
+                         </p>
+                         <p class="info6">
+                             <i class="far fa-calendar-alt"></i>
+                             Mon, Jan 12, 6:00 PM
+                         </p>
+
+
+                         <p class="info-description6">
+                             Experience the magic of clay modeling in an interactive and creative workshop.
+                             <span><a href="#">more...</a></span>
+                         </p>
+                     </div>
+                 </div>
+                 <button class="action11">Book it</button>
+                 <button id="remove6" class="action12">Delete Event</button>
+             </div>
+         </div>
+
+
+         </div>
+
+        <!---Event 7-->
+       <div class="group">
+             <div class="item-container7">
+             <div class="img-container7">
+                    <img src="~/img/orange.jpg" alt="Event image">
+             </div>
+
+             <div class="body-container7">
+                 <div class="overlay7"></div>
+
+                 <div class="event-info7">
+                     <p class="title7">Digital Illustration </p>
+                     <div class="separator7"></div>
+                     <p class="info7">Bucharest, Romania</p>
+                     <p class="price7">50$</p>
+
+                     <div class="additional-info7">
+                         <p class="info7">
+                             <i class="fas fa-map-marker-alt"></i>
+                             Juniper Street  no. 55
+                         </p>
+                         <p class="info7">
+                             <i class="far fa-calendar-alt"></i>
+                             Sun, Sept 25, 11:00 AM
+                         </p>
+
+
+                         <p class="info-description7">
+                             Discover the fascinating world of digital illustration in an interactive and practical course.
+                             <span><a href="#">more...</a></span>
+                         </p>
+                     </div>
+                 </div>
+                 <button class="action13">Book it</button>
+                 <button id="remove7" class="action14">Delete Event</button>
+             </div>
+             </div>
+
+        <!--Event 8-->
+         <div class="item-container8">
+          <div class="img-container8">
+                    <img src="~/img/brown.jpg" alt="Event image">
+          </div>
+
+
+
+
+          <div class="body-container8">
+              <div class="overlay8"></div>
+
+              <div class="event-info8">
+                  <p class="title8"> Celebrating Creation </p>
+                  <div class="separator8"></div>
+                  <p class="info8">Bucharest, Romania</p>
+                  <p class="price8">120$</p>
+
+                  <div class="additional-info8">
+                      <p class="info8">
+                          <i class="fas fa-map-marker-alt"></i>
+                          Heart Street no. 42
+                      </p>
+                      <p class="info8">
+                          <i class="far fa-calendar-alt"></i>
+                          Sat, Dec 17, 7:00 PM
+                      </p>
+
+
+                      <p class="info-description8">
+                          Join us for an elegant evening of art, music, and entertainment at the Annual Art Gala.
+                          <span><a href="#">more...</a></span>
+                      </p>
+                  </div>
+              </div>
+              <button class="action15">Book it</button>
+              <button id="remove8" class="action16">Delete Event</button>
+          </div>
+          </div>
+
+        <!--Event 9-->
+        <div class="item-container9">
+        <div class="img-container9">
+                    <img src="~/img/darckblue.jpg" alt="Event image">
+        </div>
+
+
+
+
+        <div class="body-container9">
+            <div class="overlay9"></div>
+
+            <div class="event-info9">
+                <p class="title9"> Abstract art</p>
+                <div class="separator9"></div>
+                <p class="info9">Bucharest, Romania</p>
+                <p class="price9">Free</p>
+
+                <div class="additional-info9">
+                    <p class="info9">
+                        <i class="fas fa-map-marker-alt"></i>
+                        Cedar Street no. 39
+                    </p>
+                    <p class="info9">
+                        <i class="far fa-calendar-alt"></i>
+                        Wed , Nov 04, 01:00 PM
+                    </p>
+
+
+                    <p class="info-description9">
+                        Join us for an immersive workshop focused on abstract art, where you'll delve into the world
+        <!--- of expressive forms and vibrant colors.--->
+         <span><a href="#">more...</a></span>
+                        </p>
+                    </div>
+                </div>
+                <button class="action17">Book it</button>
+                <button id="remove9" class="action18">Delete Event</button>
+            </div>
+            </div>
+
+        </div>
+
+
+        <script>
+
+            // let subMenu = document.getElementById("subMenu");
+            // function toggleMenu() {
+            //     subMenu.classList.toggle("open-menu");
+            // }
+
+
+
+            // Selectează butonul "Delete Event"
+            const deleteButton = document.getElementById('remove');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton.addEventListener('click', function() {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container1');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container1');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+
+            // Selectează butonul "Delete Event"
+            const deleteButton2 = document.getElementById('remove2');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton2.addEventListener('click', function () {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container2');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container2');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container2');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+
+            /*---Event 3---*/
+
+            // Selectează butonul "Delete Event"
+            const deleteButton3 = document.getElementById('remove3');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton3.addEventListener('click', function () {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container3');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container3');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container3');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+
+            /*---Event 4---*/
+
+            // Selectează butonul "Delete Event"
+            const deleteButton4 = document.getElementById('remove4');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton4.addEventListener('click', function () {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container4');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container4');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container4');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+
+            /*---Event 5---*/
+
+            // Selectează butonul "Delete Event"
+            const deleteButton5 = document.getElementById('remove5');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton5.addEventListener('click', function () {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container5');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container5');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container5');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+            /*---Event 6---*/
+            
+            // Selectează butonul "Delete Event"
+            const deleteButton6 = document.getElementById('remove6');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton6.addEventListener('click', function() {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container6');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container6');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container6');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+            /*---Event 7---*/
+            
+            // Selectează butonul "Delete Event"
+            const deleteButton7 = document.getElementById('remove7');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton7.addEventListener('click', function() {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container7');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container7');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container7');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+
+            /*---Event 8---*/
+            
+            // Selectează butonul "Delete Event"
+            const deleteButton8 = document.getElementById('remove8');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton8.addEventListener('click', function() {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container8');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container8');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container8');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+            
+            /*---Event 9---*/
+            
+            // Selectează butonul "Delete Event"
+            const deleteButton9 = document.getElementById('remove9');
+
+            // Adaugă un ascultător de eveniment pentru butonul "Delete Event"
+            deleteButton9.addEventListener('click', function() {
+                // Selectează elementul cu clasa "body-container1"
+                const eventContainer = document.querySelector('.body-container9');
+
+                // Verifică dacă elementul a fost găsit
+                if (eventContainer) {
+                    // Șterge întregul element
+                    eventContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "img-container"
+                const imgContainer = document.querySelector('.img-container9');
+
+                // Verifică dacă elementul a fost găsit
+                if (imgContainer) {
+                    // Șterge întregul element
+                    imgContainer.remove();
+                }
+
+                // Selectează elementul cu clasa "item-container1"
+                const itemContainer = document.querySelector('.item-container9');
+
+                // Verifică dacă elementul a fost găsit
+                if (itemContainer) {
+                    // Șterge întregul element
+                    itemContainer.remove();
+                }
+            });
+            
+
+
+        </script>
+
+</body>
+</html>

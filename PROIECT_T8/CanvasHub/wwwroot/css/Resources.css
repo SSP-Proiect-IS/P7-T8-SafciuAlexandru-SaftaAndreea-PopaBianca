@@ -1,0 +1,333 @@
+﻿
+.background-resources {
+    background-image: url('/imgBia/background1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Face ca imaginea să fie atașată la viewport, astfel încât să rămână fixă în timpul derulării */
+    height: 100vh; /* Asigură că imaginea acoperă întreaga înălțime a viewport-ului */
+}
+
+
+
+.Navbar {
+    width: 100%;
+    min-height: 100vh;
+    color: black;
+    background-position: auto;
+}
+
+nav {
+    background: #ffffff;
+    width: 99%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 20px;
+    font-size: 16px;
+    border: 5px solid #000000;
+}
+
+.logo {
+    width: 400px;
+    height: 100px;
+}
+
+
+/*.user-pic {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    border: 5px solid #000000;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+
+nav ul {
+    width: 100%;
+    text-align: right;
+}
+
+    nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin: 10px 20px;
+    }
+
+        nav ul li a img {
+            width: 24px;*/ /* Ajustează dimensiunea dorită */
+            /*height: 24px;
+        }
+
+.user-info img {
+    width: 60px;
+    height: 60px;
+    border: 5px solid #000000;
+    border-radius: 100%;
+}
+
+.sub-menu-wrap {
+    position: absolute;
+    top: 100%;
+    right: 1%;
+    width: 300px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+
+    .sub-menu-wrap.open-menu {
+        max-height: 400px;
+    }
+
+.sub-menu {
+    background: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+    .user-info h1 {
+        font-weight: 100;
+        margin-left: 10px;
+    }
+
+.sub-menu hr {
+    border: 0;
+    height: 1px;
+    width: 100%;
+    background: #fffdfd;
+    margin: 15px 0 10px;
+}
+
+.sub-menu-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    margin: 12px 0;
+    font-size: 16px;
+}
+
+    .sub-menu-link p {
+        width: 100%;
+    }
+
+    .sub-menu-link img {
+        width: 30px;
+        height: 30px;
+        background: #00000054;
+        border-radius: 50%;
+        padding: 8px;
+        margin-right: 15px;
+    }
+
+.sub-menu-wrap {
+    position: absolute;
+    top: 100%;
+    right: 1%;
+    width: 300px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+    z-index: 1;*/ /* Setează z-index pentru a plasa meniul peste resurse */
+/*}*/
+.message{
+
+    font-size:14px;
+    margin-right:20px;
+   
+}
+
+.add-resource
+{
+  gap:20px;
+  display:flex;
+  margin-right:5%;
+
+}
+
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.resources {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: absolute; /* Set position to absolute */
+    top: 100px; /* Adjust the top value to your preference */
+    left: 0; /* Position to the left of the viewport */
+    width: 100%; /* Make it span the full width */
+}
+
+.content {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 20px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    transition: .4s;
+    background: #f2f2f2;
+}
+
+.Add-to-event {
+    display: block;
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 87%;
+    margin-top: 10px;
+}
+
+    .Add-to-event:hover {
+        background-color: #79dbe6;
+    }
+
+.Remove {
+    display: block;
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 87%;
+    margin-top: 10px;
+}
+
+    .Remove:hover {
+        background-color: #79dbe6;
+    }
+
+.View {
+    display: block;
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 87%;
+    margin-top: 10px;
+}
+
+    .View:hover {
+        background-color: #79dbe6;
+    }
+
+@media (max-width: 768px) {
+    .content {
+        width: calc(100% - 40px);
+    }
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+    color: #000000;
+    padding-top: 0 8px;
+}
+
+h6 {
+    font-size: 26px;
+    text-align: center;
+    color: black;
+    margin: 0;
+}
+
+.fa {
+    font-size: 26px;
+    transition: .4s;
+    margin: 3px;
+}
+
+    .fa:hover {
+        transform: scale(1.3);
+        font-size: 24px;
+        color: #000000;
+        width: 100%;
+        padding: 15px;
+        border: 0;
+        outline: none;
+        cursor: pointer;
+        margin-top: 5px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+
+.view-1 {
+    background: #000000;
+}
+
+.view-2 {
+    background: #25c7da54;
+}
+
+.view-3 {
+    background: #66ed12f7;
+}
+
+.view-4 {
+    background: #e991e3cb;
+}
+
+@media(max-width:1000px) {
+    .content {
+        width: 45px;
+    }
+}
+
+@media(max-width:750px) {
+    .content {
+        width: 100%;
+    }
+}
+
+/* Styles for the search bar */
+.search-bar {
+    width: 100%;
+    text-align: auto;
+}
+
+    .search-bar input[type="text"] {
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 20px;
+        outline: none;
+    }
+
+        .search-bar input[type="text"]:focus {
+            border-color: #000000;
+        }

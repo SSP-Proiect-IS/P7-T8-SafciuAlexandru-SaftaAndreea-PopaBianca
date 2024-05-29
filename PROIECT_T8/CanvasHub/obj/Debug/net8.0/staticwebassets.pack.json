@@ -1,0 +1,869 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CanvasHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CanvasHub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\AddResources.css",
+      "PackagePath": "staticwebassets\\css\\AddResources.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Calendar.css",
+      "PackagePath": "staticwebassets\\css\\Calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Comunity.css",
+      "PackagePath": "staticwebassets\\css\\Comunity.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\CreateEvent.css",
+      "PackagePath": "staticwebassets\\css\\CreateEvent.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\EventsPage.css",
+      "PackagePath": "staticwebassets\\css\\EventsPage.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\InboxMember.css",
+      "PackagePath": "staticwebassets\\css\\InboxMember.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\InboxUser.css",
+      "PackagePath": "staticwebassets\\css\\InboxUser.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\InvitationEvent.css",
+      "PackagePath": "staticwebassets\\css\\InvitationEvent.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\InvitationEventMember.css",
+      "PackagePath": "staticwebassets\\css\\InvitationEventMember.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\MemberProfile.css",
+      "PackagePath": "staticwebassets\\css\\MemberProfile.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Payment.css",
+      "PackagePath": "staticwebassets\\css\\Payment.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Resource1.css",
+      "PackagePath": "staticwebassets\\css\\Resource1.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Resource2.css",
+      "PackagePath": "staticwebassets\\css\\Resource2.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Resource3.css",
+      "PackagePath": "staticwebassets\\css\\Resource3.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Resources.css",
+      "PackagePath": "staticwebassets\\css\\Resources.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\SingleEvent.css",
+      "PackagePath": "staticwebassets\\css\\SingleEvent.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\UserProfile.css",
+      "PackagePath": "staticwebassets\\css\\UserProfile.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\Photoroom1.png",
+      "PackagePath": "staticwebassets\\imgBia\\Photoroom1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\Screenshot_2024-05-07_185200-removebg-preview.png",
+      "PackagePath": "staticwebassets\\imgBia\\Screenshot_2024-05-07_185200-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\aboutUs.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\aboutUs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\add.png",
+      "PackagePath": "staticwebassets\\imgBia\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\arrow1.png",
+      "PackagePath": "staticwebassets\\imgBia\\arrow1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\artwork1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\artwork1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\artwork2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\artwork2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\artwork3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\artwork3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\artwork4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\artwork4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background-home.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background-home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\background5.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\background5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\boat.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\boat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\calendar.png",
+      "PackagePath": "staticwebassets\\imgBia\\calendar.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair1.2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair1.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair1.3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair1.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair1.4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair1.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair2.1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair2.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair2.2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair2.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair2.3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair2.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair3.1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair3.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair3.2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair3.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair3.3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair3.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair3.4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair3.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\chair3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\chair3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\dots.png",
+      "PackagePath": "staticwebassets\\imgBia\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\event-blog.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\event-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\flori1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\flori1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\girl2.png",
+      "PackagePath": "staticwebassets\\imgBia\\girl2.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\girl3.png",
+      "PackagePath": "staticwebassets\\imgBia\\girl3.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\group.png",
+      "PackagePath": "staticwebassets\\imgBia\\group.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\home.png",
+      "PackagePath": "staticwebassets\\imgBia\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\inbox.png",
+      "PackagePath": "staticwebassets\\imgBia\\inbox.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\inbox_img.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\inbox_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lights 5.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\lights 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lights1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\lights1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lights2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\lights2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lights3.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\lights3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lights4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\lights4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\location1.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\location1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\location2.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\location2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\location4.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\location4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\location5.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\location5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lock.png",
+      "PackagePath": "staticwebassets\\imgBia\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\lock1.png",
+      "PackagePath": "staticwebassets\\imgBia\\lock1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\logout_20dp_FILL0_wght400_GRAD0_opsz20.png",
+      "PackagePath": "staticwebassets\\imgBia\\logout_20dp_FILL0_wght400_GRAD0_opsz20.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\mail.png",
+      "PackagePath": "staticwebassets\\imgBia\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\man1.png",
+      "PackagePath": "staticwebassets\\imgBia\\man1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\man2.png",
+      "PackagePath": "staticwebassets\\imgBia\\man2.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\man3.png",
+      "PackagePath": "staticwebassets\\imgBia\\man3.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\members.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\members.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\messages.png",
+      "PackagePath": "staticwebassets\\imgBia\\messages.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\order.png",
+      "PackagePath": "staticwebassets\\imgBia\\order.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\payment_home.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\payment_home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\quote-img.png",
+      "PackagePath": "staticwebassets\\imgBia\\quote-img.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\report.png",
+      "PackagePath": "staticwebassets\\imgBia\\report.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\reportBG.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\reportBG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\reportsBG.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\reportsBG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\reports_img.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\reports_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\user.png",
+      "PackagePath": "staticwebassets\\imgBia\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\users_background.jpg",
+      "PackagePath": "staticwebassets\\imgBia\\users_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\woman.png",
+      "PackagePath": "staticwebassets\\imgBia\\woman.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\imgBia\\woman1.png",
+      "PackagePath": "staticwebassets\\imgBia\\woman1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\Screenshot_2024-05-07_185200-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot_2024-05-07_185200-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\aphrodite.jpg",
+      "PackagePath": "staticwebassets\\img\\aphrodite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\arab-woman.png",
+      "PackagePath": "staticwebassets\\img\\arab-woman.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\ariety1.jpg",
+      "PackagePath": "staticwebassets\\img\\ariety1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\back.png",
+      "PackagePath": "staticwebassets\\img\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\bath.jpg",
+      "PackagePath": "staticwebassets\\img\\bath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\birds.jpg",
+      "PackagePath": "staticwebassets\\img\\birds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\black.jpg",
+      "PackagePath": "staticwebassets\\img\\black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\blue.jpg",
+      "PackagePath": "staticwebassets\\img\\blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\brown.jpg",
+      "PackagePath": "staticwebassets\\img\\brown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\bujori.jpg",
+      "PackagePath": "staticwebassets\\img\\bujori.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\clopot.jpg",
+      "PackagePath": "staticwebassets\\img\\clopot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\creation - Copy.jpg",
+      "PackagePath": "staticwebassets\\img\\creation - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\creation.jpg",
+      "PackagePath": "staticwebassets\\img\\creation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\darckblue.jpg",
+      "PackagePath": "staticwebassets\\img\\darckblue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\dots.png",
+      "PackagePath": "staticwebassets\\img\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\dragon.jpg",
+      "PackagePath": "staticwebassets\\img\\dragon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\dress.jpg",
+      "PackagePath": "staticwebassets\\img\\dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\duck.jpg",
+      "PackagePath": "staticwebassets\\img\\duck.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\fbujori.jpg",
+      "PackagePath": "staticwebassets\\img\\fbujori.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\fish.jpg",
+      "PackagePath": "staticwebassets\\img\\fish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\flori.jpeg",
+      "PackagePath": "staticwebassets\\img\\flori.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\flori.png",
+      "PackagePath": "staticwebassets\\img\\flori.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\flori1.jpg",
+      "PackagePath": "staticwebassets\\img\\flori1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\frog.jpg",
+      "PackagePath": "staticwebassets\\img\\frog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\fuji.jpg",
+      "PackagePath": "staticwebassets\\img\\fuji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\garden.jpg",
+      "PackagePath": "staticwebassets\\img\\garden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\girl.png",
+      "PackagePath": "staticwebassets\\img\\girl.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\gold.jpg",
+      "PackagePath": "staticwebassets\\img\\gold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\grandfather.png",
+      "PackagePath": "staticwebassets\\img\\grandfather.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\grapes.jpg",
+      "PackagePath": "staticwebassets\\img\\grapes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\home.png",
+      "PackagePath": "staticwebassets\\img\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\inbox.png",
+      "PackagePath": "staticwebassets\\img\\inbox.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\lady.jpg",
+      "PackagePath": "staticwebassets\\img\\lady.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\lock.png",
+      "PackagePath": "staticwebassets\\img\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\logout_20dp_FILL0_wght400_GRAD0_opsz20.png",
+      "PackagePath": "staticwebassets\\img\\logout_20dp_FILL0_wght400_GRAD0_opsz20.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\man.png",
+      "PackagePath": "staticwebassets\\img\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\man1.png",
+      "PackagePath": "staticwebassets\\img\\man1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\nuferi.jpg",
+      "PackagePath": "staticwebassets\\img\\nuferi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\orange.jpg",
+      "PackagePath": "staticwebassets\\img\\orange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\pink.jpg",
+      "PackagePath": "staticwebassets\\img\\pink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\pisici.jpg",
+      "PackagePath": "staticwebassets\\img\\pisici.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\portret.jpg",
+      "PackagePath": "staticwebassets\\img\\portret.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\red.jpg",
+      "PackagePath": "staticwebassets\\img\\red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\rodie.jpg",
+      "PackagePath": "staticwebassets\\img\\rodie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\roial.jpg",
+      "PackagePath": "staticwebassets\\img\\roial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\shinre.jpg",
+      "PackagePath": "staticwebassets\\img\\shinre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\temple.jpg",
+      "PackagePath": "staticwebassets\\img\\temple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\venetia.jpg",
+      "PackagePath": "staticwebassets\\img\\venetia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\visa.png",
+      "PackagePath": "staticwebassets\\img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\white.jpg",
+      "PackagePath": "staticwebassets\\img\\white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\window.jpg",
+      "PackagePath": "staticwebassets\\img\\window.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\wine.jpg",
+      "PackagePath": "staticwebassets\\img\\wine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\woman.png",
+      "PackagePath": "staticwebassets\\img\\woman.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\woman1.png",
+      "PackagePath": "staticwebassets\\img\\woman1.png"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\img\\yellow.jpg",
+      "PackagePath": "staticwebassets\\img\\yellow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\js\\Calendar.js",
+      "PackagePath": "staticwebassets\\js\\Calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\js\\ProfileSlide.js",
+      "PackagePath": "staticwebassets\\js\\ProfileSlide.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\js\\product_page.js",
+      "PackagePath": "staticwebassets\\js\\product_page.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CanvasHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CanvasHub.props",
+      "PackagePath": "build\\CanvasHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CanvasHub.props",
+      "PackagePath": "buildMultiTargeting\\CanvasHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CanvasHub.props",
+      "PackagePath": "buildTransitive\\CanvasHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

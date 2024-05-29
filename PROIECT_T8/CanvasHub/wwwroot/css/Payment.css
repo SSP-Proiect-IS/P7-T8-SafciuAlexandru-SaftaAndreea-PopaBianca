@@ -1,0 +1,219 @@
+﻿@font-face {
+    font-family: 'vintage';
+    src: url(VintagersDemoRegular.ttf);
+}
+
+@font-face {
+    font-family: 'font1';
+    src: url(Augusta.ttf);
+}
+
+@font-face {
+    font-family: 'vintage1';
+    src: url(Singtton\ Vintage.otf);
+}
+
+
+/*-----Navbar----*/
+
+
+
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    color: black;
+}
+
+nav {
+    background: #ffffff;
+    width: 99%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 20px;
+    font-size: 16px;
+    border: 5px solid #000000;
+}
+
+.logo {
+    width: 300px;
+    height: 100px;
+}
+
+/*.user-pic {
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    border: 5px solid #000000;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+
+nav ul {
+    width: 100%;
+    text-align: right;
+}
+
+    nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin: 10px 20px;
+    }
+
+.user-info img {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #000000;
+    border-radius: 100%;
+}
+
+.sub-menu-wrap {
+    position: absolute;
+    top: 100%;
+    right: 1%;
+    width: 300px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+
+    .sub-menu-wrap.open-menu {
+        max-height: 300px;
+    }
+
+.sub-menu {
+    background: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid #000000;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+    .user-info h1 {
+        font-weight: 100;
+        margin-left: 10px;
+        font-size: 18px;
+    }
+
+.sub-menu hr {
+    border: 0;
+    height: 1px;
+    width: 100%;
+    background: #000000;
+    margin: 15px 0 10px;
+}
+
+.sub-menu-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    margin: 12px 0;
+    font-size: 16px;
+}
+
+    .sub-menu-link p {
+        width: 100%;
+    }
+
+    .sub-menu-link img {
+        width: 20px;
+        height: 20px;
+        background: #00000054;
+        border-radius: 50%;
+        padding: 8px;
+        margin-right: 15px;
+    }*/
+
+/*-----------*/
+
+.background-payment {
+    background-color: #000000;
+}
+
+.container {
+    margin-top: -500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .container form {
+        height: 550px;
+        width: 600px;
+        padding: 5%;
+        background: #ffffff;
+        border-radius: 20px;
+    }
+
+form .row {
+    margin-right: 30px;
+    display: flex;
+    gap: 80px;
+}
+
+.row .column {
+    flex: 1 1 250px;
+}
+
+.column .title {
+    font-size: 18px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.column .input-box {
+    margin: 15px 0;
+}
+
+.input-box span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input-box input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 2px solid #909090;
+    border-radius: 6px;
+    font-size: 13px;
+}
+
+.column .flex {
+    display: flex;
+    gap: 80px;
+}
+
+.flex .input-box {
+    margin-top: 20px;
+}
+
+form .btn {
+    width: 100%;
+    padding: 15px;
+    background: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    border: 3px solid #000000;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+    form .btn:hover {
+        background: #18771e;
+    }
+
+.input-box img {
+    height: 30px;
+    margin-top: 5px;
+}

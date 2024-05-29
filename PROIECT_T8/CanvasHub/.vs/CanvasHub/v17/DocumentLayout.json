@@ -1,0 +1,1544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\dataseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\dataseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\dataseederservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\eventeditingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\eventeditingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\idataseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\idataseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\eventeditingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\canvashub.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\inboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\inboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\eventpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\eventpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\eventservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\ieventeditingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\ieventeditingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\paymentmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\paymentmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\resourcemanagementservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\resourcemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\resourcemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\canvashubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\canvashubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\iresourcemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\iresourcemanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\iinboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\iinboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F5428-C52B-45F5-BB80-FC4A34ED7282}|..\\CanvasHub.Tests\\CanvasHub.Tests.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub.tests\\membershipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\disable2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\home\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\home\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\wwwroot\\css\\addresources.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:wwwroot\\css\\addresources.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524073953_moreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524073953_moreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\paymentsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\paymentsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\resourcecalendarreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\resourcecalendarreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\resourceavailabilityreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\resourceavailabilityreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\profitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\profitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\ieventpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\ieventpageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\home\\testingfrontend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\home\\testingfrontend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524033723_servicesssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524033723_servicesssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\models\\eventinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:models\\eventinvitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524032337_payment_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524032337_payment_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\ipaymentmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\ipaymentmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\controllers\\eventinvitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:controllers\\eventinvitationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524022602_controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524022602_controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\repositories\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:repositories\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240523163800_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240523163800_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163617_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240523163617_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163235_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240523163235_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524021634_event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524021634_event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240524031715_event_membership_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240524031715_event_membership_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|c:\\users\\alexr\\desktop\\daaaaaa\\canvashub\\migrations\\20240529142139_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1242E109-927F-4638-9F08-1E6725ABFCC4}|CanvasHub.csproj|solutionrelative:migrations\\20240529142139_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSeederServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\DataSeederServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\DataSeederServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\DataSeederServiceTests.cs",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\DataSeederServiceTests.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAQwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:45:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventEditingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\EventEditingServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\EventEditingServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\EventEditingServiceTests.cs",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\EventEditingServiceTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:26:29.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataSeederService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IDataSeederService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDataSeederService.cs",
+              "ToolTip": "Services/Interfaces/IDataSeederService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Services\\Interfaces",
+              "OverriddenToolTip": "Services/Interfaces/IDataSeederService.cs",
+              "WhenOpened": "2024-05-23T17:10:45.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeederService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\DataSeederService.cs",
+              "RelativeDocumentMoniker": "Services\\DataSeederService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\DataSeederService.cs",
+              "RelativeToolTip": "Services\\DataSeederService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Services",
+              "WhenOpened": "2024-05-23T17:11:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventEditingService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventEditingService.cs",
+              "RelativeDocumentMoniker": "Services\\EventEditingService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventEditingService.cs",
+              "RelativeToolTip": "Services\\EventEditingService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:10:56.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CanvasHub.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\CanvasHub.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\CanvasHub.Tests.csproj",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\CanvasHub.Tests.csproj",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\CanvasHub.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T14:48:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventService.cs",
+              "RelativeToolTip": "Services\\EventService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:40.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventPageService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventPageService.cs",
+              "RelativeDocumentMoniker": "Services\\EventPageService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\EventPageService.cs",
+              "RelativeToolTip": "Services\\EventPageService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwGMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:14:05.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InboxService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\InboxService.cs",
+              "RelativeDocumentMoniker": "Services\\InboxService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\InboxService.cs",
+              "RelativeToolTip": "Services\\InboxService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:31:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "Services\\MembershipService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\MembershipService.cs",
+              "RelativeToolTip": "Services\\MembershipService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:57:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\EventServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\EventServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\EventServiceTests.cs",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\EventServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:06:27.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\PaymentManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentManagementService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\PaymentManagementService.cs",
+              "RelativeToolTip": "Services\\PaymentManagementService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswD8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:19:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventEditingService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventEditingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventEditingService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventEditingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEventEditingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:10:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResourceManagementServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\ResourceManagementServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\ResourceManagementServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\ResourceManagementServiceTests.cs",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\ResourceManagementServiceTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:27:10.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourceManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\ResourceManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\ResourceManagementService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\ResourceManagementService.cs",
+              "RelativeToolTip": "Services\\ResourceManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:28:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CanvasHubContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\CanvasHubContext.cs",
+              "RelativeDocumentMoniker": "Models\\CanvasHubContext.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\CanvasHubContext.cs",
+              "RelativeToolTip": "Models\\CanvasHubContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-21T15:41:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:22:11.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IResourceManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IResourceManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IResourceManagementService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IResourceManagementService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IResourceManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:28:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IInboxService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IInboxService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IInboxService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IInboxService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IInboxService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:30:54.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MembershipServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\MembershipServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CanvasHub.Tests\\MembershipServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub.Tests\\MembershipServiceTests.cs",
+              "RelativeToolTip": "..\\CanvasHub.Tests\\MembershipServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:48:10.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T16:12:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMembershipService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IMembershipService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMembershipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:56:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240529142139_tests.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240529142139_tests.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240529142139_tests.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240529142139_tests.cs",
+              "RelativeToolTip": "Migrations\\20240529142139_tests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:21:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "OverriddenGroupName": "Views\\Shared",
+              "WhenOpened": "2024-05-24T08:14:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T09:34:19.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TwoFactorAuthentication.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:06:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShowRecoveryCodes.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:08:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResetAuthenticator.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:08:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:56.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenerateRecoveryCodes.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:45.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:04:17.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnableAuthenticator.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:03:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DownloadPersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:17.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Disable2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeletePersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:07:00.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:06:49.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:05:36.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:04:58.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:02:59.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:01:30.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:28:17.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Resources.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\Resources.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Resources.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\Resources.cshtml",
+              "RelativeToolTip": "Views\\Home\\Resources.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:55:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "wwwroot\\css\\Home.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T07:52:51.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddResources.css",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\AddResources.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\AddResources.css",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\wwwroot\\css\\AddResources.css",
+              "RelativeToolTip": "wwwroot\\css\\AddResources.css",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T07:45:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:57:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T17:27:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA0wCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Controllers",
+              "WhenOpened": "2024-05-17T09:32:37.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240524073953_MoreServices.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524073953_MoreServices.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524073953_MoreServices.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524073953_MoreServices.cs",
+              "RelativeToolTip": "Migrations\\20240524073953_MoreServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:39:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:22:00.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentsReport.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\PaymentsReport.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentsReport.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\PaymentsReport.cs",
+              "RelativeToolTip": "Models\\PaymentsReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:24:35.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResourceCalendarReport.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ResourceCalendarReport.cs",
+              "RelativeDocumentMoniker": "Models\\ResourceCalendarReport.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ResourceCalendarReport.cs",
+              "RelativeToolTip": "Models\\ResourceCalendarReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:26:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResourceAvailabilityReport.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ResourceAvailabilityReport.cs",
+              "RelativeDocumentMoniker": "Models\\ResourceAvailabilityReport.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ResourceAvailabilityReport.cs",
+              "RelativeToolTip": "Models\\ResourceAvailabilityReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:26:44.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "Models\\Resource.cs",
+              "ToolTip": "Models/Resource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "OverriddenToolTip": "Models/Resource.cs",
+              "WhenOpened": "2024-05-23T15:53:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "Models\\Report.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Report.cs",
+              "RelativeToolTip": "Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-18T15:18:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProfitReport.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ProfitReport.cs",
+              "RelativeDocumentMoniker": "Models\\ProfitReport.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\ProfitReport.cs",
+              "RelativeToolTip": "Models\\ProfitReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:26:00.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:25:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-18T14:45:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-23T15:53:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA4wAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-23T16:15:53.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IEventPageService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventPageService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventPageService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventPageService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEventPageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:13:56.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240524033723_Servicesssss.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524033723_Servicesssss.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524033723_Servicesssss.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524033723_Servicesssss.cs",
+              "RelativeToolTip": "Migrations\\20240524033723_Servicesssss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:37:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "Models/Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "OverriddenToolTip": "Models/Message.cs",
+              "WhenOpened": "2024-05-23T16:18:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TestingFrontend.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\TestingFrontend.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TestingFrontend.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Home\\TestingFrontend.cshtml",
+              "RelativeToolTip": "Views\\Home\\TestingFrontend.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T17:31:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EventInvitation.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\EventInvitation.cs",
+              "RelativeDocumentMoniker": "Models\\EventInvitation.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\EventInvitation.cs",
+              "RelativeToolTip": "Models\\EventInvitation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-23T15:52:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Models",
+              "WhenOpened": "2024-05-22T18:53:22.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240524032337_Payment_Services.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524032337_Payment_Services.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524032337_Payment_Services.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524032337_Payment_Services.cs",
+              "RelativeToolTip": "Migrations\\20240524032337_Payment_Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:23:37.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IPaymentManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IPaymentManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPaymentManagementService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IPaymentManagementService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPaymentManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:19:42.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20240524031715_Event_Membership_Services.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524031715_Event_Membership_Services.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524031715_Event_Membership_Services.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524031715_Event_Membership_Services.cs",
+              "RelativeToolTip": "Migrations\\20240524031715_Event_Membership_Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:17:15.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\MembershipController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MembershipController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\MembershipController.cs",
+              "RelativeToolTip": "Controllers\\MembershipController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:59:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Controllers\\NotificationsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:18:27.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:19:01.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ResourcesController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ResourcesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResourcesController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ResourcesController.cs",
+              "RelativeToolTip": "Controllers\\ResourcesController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAQwJ0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:19:39.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAgwJIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:55:32.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2024-05-23T15:43:39.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAgwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:38:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAgwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:20:09.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EventInvitationsController.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\EventInvitationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventInvitationsController.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Controllers\\EventInvitationsController.cs",
+              "RelativeToolTip": "Controllers\\EventInvitationsController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAgwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:17:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240524022602_Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524022602_Controllers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524022602_Controllers.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524022602_Controllers.cs",
+              "RelativeToolTip": "Migrations\\20240524022602_Controllers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:26:03.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Repositories",
+              "WhenOpened": "2024-05-23T16:00:19.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:01:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240524021634_Event1.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524021634_Event1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240524021634_Event1.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240524021634_Event1.cs",
+              "RelativeToolTip": "Migrations\\20240524021634_Event1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:16:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\Messages\\Index.cshtml",
+              "RelativeToolTip": "Views\\Messages\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:15:15.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "Areas/Identity/Pages/Account/Register.cshtml.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwHoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Areas\\Identity\\Pages\\Account",
+              "OverriddenToolTip": "Areas/Identity/Pages/Account/Register.cshtml.cs",
+              "WhenOpened": "2024-05-23T16:48:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T16:42:19.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T16:42:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CanvasHubDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T16:41:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240523163800_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163800_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523163800_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163800_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240523163800_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:38:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240523163617_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163617_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523163617_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163617_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20240523163617_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:36:17.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20240523163235_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163235_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523163235_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Migrations\\20240523163235_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240523163235_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:32:35.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:59:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:59:20.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alexr\\Desktop\\dAAAAAA\\CanvasHub\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T15:44:02.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

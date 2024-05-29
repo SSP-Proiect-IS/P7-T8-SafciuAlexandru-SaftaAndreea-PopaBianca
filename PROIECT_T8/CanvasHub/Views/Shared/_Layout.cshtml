@@ -1,0 +1,381 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CanvasHub</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CanvasHub.styles.css" asp-append-version="true" />
+
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body class="background-page">
+   @* 
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CanvasHub</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Event">Event</a>
+                        </li>
+
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="UserProfile">UserProfile</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        *@
+       
+            <!-- header section starts  -->
+
+            <header class="Navbar">
+
+                <section class="flex">
+
+                    <nav>
+
+                        <img src="~/imgBia/Screenshot_2024-05-07_185200-removebg-preview.png" class="logo">
+
+                        <a href="#home"style="text-decoration:none; color: #000">home</a>
+                        <a href="#about"style="text-decoration: none; color: #000">about</a>
+                        <a href="#menu" style="text-decoration: none; color: #000">resources</a>
+                        <a href="#products" style="text-decoration: none; color: #000">artwork</a>
+                        <a href="#review" style="text-decoration: none; color: #000">review</a>
+                        <a href="#contact" style="text-decoration: none; color: #000">contact</a>
+                       <a href="#blogs" style="text-decoration: none; color: #000">explore</a>
+      
+                        @* <a href="Areas/Identity/Pages/Account/Manage/_Login" style="text-decoration: none; color: #000">Login</a>
+                        <a href="Areas/Identity/Pages/Account/Register" style="text-decoration: none; color: #000">Register</a>
+ *@
+                         <partial name="_LoginPartial" /> 
+
+                     
+
+                    </nav>
+
+
+                </section>
+
+            </header>
+         
+
+            <!-- header section ends -->
+            <!-- home section starts  -->
+
+            <div class="home-container">
+
+                <section class="home" id="home">
+
+                    <div class="content">
+                        <h3>welcome to canvashub</h3>
+                        <p>We Are Creative People!!</p>
+                        <a href="#" class="btn"style="color:#000">join us now</a>
+                    </div>
+
+                </section>
+
+            </div>
+
+            <!-- home section ends -->
+            <!-- about section starts  -->
+
+            <section class="about" id="about">
+
+                <h1 class="heading"> <span>about</span> us </h1>
+
+                <div class="row">
+
+                    <div class="image">
+                        <img src="~/imgBia/aboutUs.jpg" alt="">
+                    </div>
+
+                    <div class="content">
+                        <h3>What makes our art club so special?</h3>
+                        <p>Our passion for art is like a unique blend of colors and expressions, offering a vibrant and inspirational space for artists of all fields. In every corner of the club, you'll discover a dedicated community, where each artwork brings a unique story and each gathering brings a fresh creative perspective. </p>
+                        <p>We're the place where imagination becomes reality and where art comes to life in a truly special way.</p>
+                        <a href="#" class="btn">learn more</a>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- about section ends -->
+            <!-- menu section starts  -->
+
+            <section class="menu" id="menu">
+
+                <h1 class="heading"> our <span>resources</span> </h1>
+
+                <div class="box-container">
+
+                    <div class="box">
+                        <img src="~/imgBia/chair3.jpg" alt="">
+                        <h3>Chivari Chair</h3>
+                        @* <div class="price">$400 <span>600</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/lights2.jpg" alt="">
+                        <h3>Dreamy Art Installations</h3>
+                       @*  <div class="price">$500 <span>550</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/location1.jpg" alt="">
+                        <h3>The Electoral Palace</h3>
+                      @*   <div class="price">$500 <span>700</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/lights 5.jpg">
+                        <h3>Ruby Glow</h3>
+                    @*     <div class="price">$300 <span>350</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/chair2.jpg" alt="">
+                        <h3>Transparent Chair</h3>
+                       @*  <div class="price">$2145 <span>2500</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/location4.jpg" alt="">
+                        <h3>The Lume</h3>
+                        @* <div class="price">$300 <span>550</span></div> *@
+                <a href="Home/Resources" class="btn">See Resource</a>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- menu section ends -->
+
+            <section class="products" id="products">
+
+                <h1 class="heading"> our <span>artwork</span> </h1>
+
+                <div class="box-container">
+
+                    <div class="image">
+                        <img src="~/imgBia/artwork1.jpg" alt="">
+                        <img src="~/imgBia/artwork2.jpg" alt="">
+                        <img src="~/imgBia/artwork3.jpg" alt="">
+                        <img src="~/imgBia/artwork4.jpg" alt="">
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- review section starts  -->
+
+            <section class="review" id="review">
+
+                <h1 class="heading"> customer's <span>review</span> </h1>
+
+                <div class="box-container">
+
+                    <div class="box">
+                        <img src="~/imgBia/quote-img.png" alt="" class="quote">
+                        <p>The CanvasHub is a cultural oasis! Its vibrant atmosphere and captivating exhibitions always leave me feeling inspired and connected to the artistic world with each visit.</p>
+                        <img src="~/imgBia/girl2.png" class="user" alt="">
+                        <h3>Anca</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/quote-img.png" alt="" class="quote">
+                        <p>A wonderful spot for art lovers! Their events consistently showcase diverse and innovative works, providing an authentic and stimulating experience for those passionate about art.</p>
+                        <img src="~/imgBia/man3.png" class="user" alt="">
+                        <h3>Marius</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                    </div>
+
+                    <div class="box">
+                        <img src="~/imgBia/quote-img.png" alt="" class="quote">
+                        <p>The CanvasHub is the perfect place to meet like-minded people. Here, I've found not only inspiration but also a welcoming community full of enthusiasm for art.</p>
+                        <img src="~/imgBia/woman.png" class="user" alt="">
+                        <h3>Elena</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- review section ends -->
+            <!-- contact section starts  -->
+
+            <section class="contact" id="contact">
+
+                <h1 class="heading"> <span>contact</span> us </h1>
+
+                <div class="row">
+
+                    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30153.788252261566!2d72.82321484621745!3d19.141690214227783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b63aceef0c69%3A0x2aa80cf2287dfa3b!2sJogeshwari%20West%2C%20Mumbai%2C%20Maharashtra%20400047!5e0!3m2!1sen!2sin!4v1629452077891!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+
+                    <form action="">
+                        <h3>get in touch</h3>
+                        <div class="inputBox">
+                            <span class="fas fa-user"></span>
+                            <input type="text" placeholder="name">
+                        </div>
+                        <div class="inputBox">
+                            <span class="fas fa-envelope"></span>
+                            <input type="email" placeholder="email">
+                        </div>
+                        <div class="inputBox">
+                            <span class="fas fa-phone"></span>
+                            <input type="number" placeholder="number">
+                        </div>
+                        <input type="submit" value="contact now" class="btn">
+                    </form>
+
+                </div>
+
+            </section>
+
+            <!-- contact section ends -->
+            <!-- blogs section starts  -->
+
+            <section class="blogs" id="blogs">
+
+                <h1 class="heading"> our <span>pages</span> </h1>
+
+                <div class="box-container">
+
+                    <div class="box">
+                        <div class="image">
+                            <img src="~/imgBia/members.jpg" alt="">
+                        </div>
+                        <div class="content">
+                           <a @* href="#" *@ class="title">Our community</a>
+                            <span>Meet Our Artistic Community </span>
+                            <p>The comunity of our club are passionate souls, creative spirits, and connoisseurs of beauty, all united by their shared devotion to art.</p>
+                            <a href="Home/Comunity" class="btn">Meet Them</a>
+                        </div>
+                    </div>
+
+                    <div class="box">
+                        <div class="image">
+                            <img src="~/imgBia/event-blog.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <a href="#" class="title">our events</a>
+                            <span>Discover Our Cultural Calendar</span>
+                            <p>Discover a rich array of cultural experiences in our events section, from engaging art exhibitions to informative workshops, designed to inspire and unite art enthusiasts within our community.</p>
+                            <a href="Home/EventsPage" class="btn">See Events</a>
+                        </div>
+                    </div>
+
+                    <div class="box">
+                        <div class="image">
+                            <img src="~/imgBia/lights1.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <a href="#" class="title">our resources</a>
+                            <span>Unlock Your Creative Potential</span>
+                            <p>Explore our resources for your special events. We provide options for chairs, lighting, and venues, helping you create the perfect atmosphere for every occasion.</p>
+                            <a href="Home/Resources" class="btn">Check Them</a>
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+            </section>
+
+            <!-- blogs section ends -->
+            <!-- footer section starts  -->
+
+            <section class="footer">
+
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                    <a href="#" class="fab fa-pinterest"></a>
+                </div>
+
+                <div class="links">
+                    <a href="#home">home</a>
+                    <a href="#about">about</a>
+                    <a href="#menu">resources</a>
+                    <a href="#products">artwork</a>
+                    <a href="#review">review</a>
+                    <a href="#contact">contact</a>
+                    <a href="#blogs">explore</a>
+                </div>
+
+
+            </section>
+            <script src="/js/script.js">
+                       
+            </script>
+
+       
+   
+   
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - CanvasHub - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

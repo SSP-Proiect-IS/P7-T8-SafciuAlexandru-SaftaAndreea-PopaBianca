@@ -1,0 +1,237 @@
+﻿@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body-background {
+    background: #bedaaa;
+}
+
+section {
+    width: 99%;
+    height: 730px;
+    margin: 10px auto;
+    background: #ffffff;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+nav {
+    width: 100%;
+    height: auto;
+}
+
+aside {
+    width: 18%;
+    height: 730px;
+    background: #367a3f;
+    transition: 0.5s;
+    float: left;
+}
+
+    aside ul {
+        width: 98%;
+        margin: auto;
+        padding: 2px 20px;
+    }
+
+        aside ul li {
+            list-style: none;
+            font-weight: bold;
+            margin: 20px auto;
+            position: relative;
+            overflow: hidden;
+            line-height: 35px;
+            height: 35px;
+            color: #ffffff;
+        }
+
+            aside ul li:hover {
+                background: hsla(0, 0%, 77%, 0.633);
+                border-radius: 10px;
+            }
+
+        aside ul:first-child li:hover {
+            background: none;
+        }
+
+        aside ul li.active {
+            background: #ffffff;
+            width: 112%;
+            border-radius: 5px 0 0 5px;
+            transition: 0.5s;
+        }
+
+            aside ul li.active a {
+                color: #000000;
+            }
+
+        aside ul li a {
+            text-decoration: none;
+            color: #000000;
+        }
+
+            aside ul li a i {
+                width: 30px;
+                padding: 5px;
+                margin-right: 5px;
+            }
+
+                aside ul li a i.fa-angle-right {
+                    position: absolute;
+                    right: 0;
+                }
+
+.fa-bars {
+    cursor: pointer;
+}
+
+input#mobile-menu:checked ~ nav aside {
+    width: 5%;
+}
+
+input#mobile-menu:checked ~ nav header,
+input#mobile-menu:checked ~ main {
+    width: 95%;
+}
+
+input#mobile-menu:checked ~ nav aside ul li.active {
+    width: 174%;
+}
+
+header {
+    width: 82%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: bold;
+    transition: 0.5s;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    position: relative;
+}
+
+    header span {
+        padding: 0px 10px;
+    }
+
+
+    header form {
+        width: 70%;
+    }
+
+        header form input {
+            width: 96%;
+            border: none;
+            outline: none;
+            background: #0000004e;
+            border-radius: 5px;
+        }
+
+    header img {
+        margin-top: 5px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border: 2px solid #000000;
+    }
+
+main {
+    float: left;
+    width: 82%;
+    height: 670px;
+    transition: 0.5s;
+}
+
+    main .header {
+        display: flex;
+        align-items: center;
+        height: 50px;
+        padding: 5px;
+        margin: 10px;
+        border-bottom: 1px solid #000000;
+    }
+
+        main .header input {
+            width: 20px;
+            height: 20px;
+            margin: 0 20px;
+        }
+
+        main .header ul {
+            display: inherit;
+            justify-content: space-between;
+            width: 140px;
+            margin-right: 10px;
+        }
+
+            main .header ul li {
+                list-style: none;
+                background: hsla(0, 0%, 77%, 0.633);
+                width: 30px;
+                text-align: center;
+                height: 25px;
+                line-height: 25px;
+                border-radius: 2px;
+            }
+
+        main .header select {
+            margin: 0 16px;
+            width: 50px;
+            height: 25px;
+            border: none;
+            outline: none;
+            background: hsla(0, 0%, 77%, 0.633);
+            border-radius: 2px;
+        }
+
+    main .inbox-body ul li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 96%;
+        margin: 20px auto;
+        height: 50px;
+        background: hsla(106, 21%, 58%, 0.633);
+        color: #000000;
+        overflow-y: hidden;
+        border-radius: 10px;
+    }
+
+        main .inbox-body ul li input,
+        main .inbox-body ul li .fa-star,
+        main .inbox-body ul li img,
+        main .inbox-body ul li h5,
+        main .inbox-body ul li div {
+            margin: 0 10px;
+        }
+
+        main .inbox-body ul li .fa-star {
+            color: #747474;
+        }
+
+        main .inbox-body ul li h5 {
+            width: 150px;
+        }
+
+        main .inbox-body ul li img {
+            width: 90px;
+            height: 90px;
+            border: 2px solid #000000;
+            border-radius: 100%;
+        }
+
+        main .inbox-body ul li div {
+            font-size: 14px;
+        }
+
+            main .inbox-body ul li div h5 {
+                margin: 0;
+            }
+
+.fa-home {
+    color: #000000;
+}

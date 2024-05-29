@@ -1,0 +1,295 @@
+﻿.background-invitation {
+    background-color: #000000;
+    background-image: url(/img/clopot.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*----------NavBar------------*/
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    color: black;
+}
+
+nav {
+    background: #ffffff;
+    width: 99%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    border-radius: 20px;
+    font-size: 16px;
+    border: 5px solid #000000;
+}
+
+.logo {
+    width: 300px;
+    height: 100px;
+}
+
+/*.user-pic {
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    border: 5px solid #000000;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+
+nav ul {
+    width: 100%;
+    text-align: right;
+}
+
+    nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin: 10px 20px;
+    }
+
+.user-info img {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #000000;
+    border-radius: 100%;
+}
+
+.sub-menu-wrap {
+    position: absolute;
+    top: 100%;
+    right: 1%;
+    width: 300px;
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s;
+}
+
+    .sub-menu-wrap.open-menu {
+        max-height: 300px;
+    }
+
+.sub-menu {
+    background: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid #000000;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+    .user-info h1 {
+        font-weight: 100;
+        margin-left: 10px;
+        font-size: 18px;
+    }
+
+.sub-menu hr {
+    border: 0;
+    height: 1px;
+    width: 100%;
+    background: #000000;
+    margin: 15px 0 10px;
+}
+
+.sub-menu-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    margin: 12px 0;
+    font-size: 16px;
+}
+
+    .sub-menu-link p {
+        width: 100%;
+    }
+
+    .sub-menu-link img {
+        width: 20px;
+        height: 20px;
+        background: #00000054;
+        border-radius: 50%;
+        padding: 8px;
+        margin-right: 15px;
+    }
+*/
+/*--------*/
+
+.case {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    column-gap: 100px;
+}
+
+.box-invitation {
+    border-radius: 20px;
+    width: 99%;
+    height: 480px;
+    margin-top: 100px;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+}
+
+    .box-invitation h1 {
+        margin: 0px;
+        padding: 20px;
+        font-size: 20px;
+    }
+
+
+
+    .box-invitation h2 {
+        margin: 0px;
+        padding: 10px;
+        margin-left: 60px;
+        font-size: 18px;
+        text-decoration: none;
+        font-weight: 100;
+    }
+
+    .box-invitation h3 {
+        margin: 0px;
+        padding: 10px;
+        margin-left: 60px;
+        font-size: 18px;
+        text-decoration: none;
+        font-weight: 100;
+    }
+
+
+    .box-invitation h4 {
+        margin: 0px;
+        padding: 10px;
+        margin-left: 60px;
+        font-size: 18px;
+        font-weight: 100;
+    }
+
+    .box-invitation h5 {
+        margin: 0px;
+        padding: 10px;
+        margin-left: 60px;
+        font-size: 18px;
+        text-decoration: none;
+        font-weight: 100;
+    }
+
+    .box-invitation p {
+        margin: 0px;
+        padding: 20px;
+        text-align: center;
+        font-size: 18px;
+        text-decoration: none;
+        font-weight: 100;
+    }
+
+    .box-invitation h6 {
+        margin: 0px;
+        padding: 10px;
+        margin-left: 20px;
+        font-size: 18px;
+        font-weight: 100;
+    }
+
+/*----Event Box-------*/
+
+.event-description {
+    background: #480404fe;
+    border-radius: 20px;
+    width: 70%;
+    height: 480px;
+    margin-top: 70px;
+    border: 2px solid #000000;
+    align-items: center;
+}
+
+
+    .event-description .event-detail {
+        background-image: url(/img/aphrodite.jpg);
+        border-radius: 20px;
+        width: 90%;
+        height: 400px;
+        margin-top: 4%;
+        margin-left: 45px;
+        border: 2px solid #000000;
+    }
+
+/*----Check Event -----*/
+
+.buton {
+    margin-top: 300px;
+    margin-left: 80%;
+    background: #480404fe;
+    height: 20px;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid #000000;
+}
+
+    .buton .btn {
+        color: #ffffff;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: 'vintage1';
+        font-size: 18px;
+    }
+
+/*------Invitatie status-------*/
+
+.alegeri {
+    margin-top: 10px;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    column-gap: 50px;
+}
+
+.buton-choose {
+    background: #fffffffe;
+    height: 20px;
+    width: 170px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid #000000;
+}
+
+    .buton-choose .btn-choose {
+        color: #000000;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: 'vintage1';
+        font-size: 16px;
+    }
+
+    .buton-choose .btn-choose1 {
+        color: #000000;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: 'vintage1';
+        font-size: 16px;
+    }
+
+/*----Line--*/
+
+.line {
+    margin-top: 50px;
+    width: 100%;
+    height: 2px;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    border-radius: 90px;
+}

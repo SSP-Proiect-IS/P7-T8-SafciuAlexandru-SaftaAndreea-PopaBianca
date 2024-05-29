@@ -1,0 +1,127 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/css/Comunity.css">
+</head>
+
+<body class="background-body">
+
+    <div class="Navbar">
+
+        <nav>
+            <img src="~/imgBia/Screenshot_2024-05-07_185200-removebg-preview.png" class="logo">
+            <div class="box">
+                <div class="search-bar">
+                    <input type="text" id="searchInput" onkeyup="searchResources()" placeholder="...">
+                </div>
+            </div>
+            
+
+        </nav>
+    </div>
+
+
+    <script>
+        let subMenu = document.getElementById("subMenu");
+
+        function toggleMenu() {
+            if (subMenu.classList.contains("open-menu")) {
+                subMenu.classList.remove("open-menu"); // Închidem meniul
+            } else {
+                subMenu.classList.add("open-menu"); // Deschidem meniul
+            }
+        }
+
+        function searchResources() {
+            let input = document.getElementById('searchInput').value.toLowerCase();
+            let contents = document.getElementsByClassName('content');
+
+            Array.from(contents).forEach(function (content) {
+                let text = content.textContent.toLowerCase();
+                if (text.includes(input)) {
+                    content.style.display = 'block';
+                } else {
+                    content.style.display = 'none';
+                }
+            });
+        }
+    </script>
+
+
+
+
+
+    <div class="users">
+        <div class="content">
+            <h3>Ana</h3>
+            <img src="~/imgBia/girl3.png">
+            <p>Metal catches life in my hands, turning into emotion and form.</p>
+            <h6>Metal sculptor</h6>
+            <a href="#" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+
+        <div class="content">
+            <h3>Elena</h3>
+            <img src="~/img/woman.png">
+            <p>My hands preserve the past for the future, restoring the beauty and authenticity of works of art.</p>
+            <h6> Art conservator</h6>
+         
+            <a href="UserProfile" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+
+        <div class="content">
+            <h3>Eliot</h3>
+            <img src="~/img/man.png">
+            <p>Colors and emotions come alive on my canvas, on a journey to the ephemeral beauty of the moment.</p>
+            <h6> Watercolor painter</h6>
+          
+            <a href="MemberProfile" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+
+        <div class="content">
+            <h3>Alex</h3>
+            <img src="~/imgBia/man1.png">
+            <p>Pixels and passion turn ideas into captivating images.</p>
+            <h6>Digital Graphic Designer</h6>
+          
+            <a href="#" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+
+        <div class="content">
+            <h3>Andreea</h3>
+            <img src="~/imgBia/girl2.png">
+            <p>Through my hands, marble comes to life, each sculpture expressing a unique and deep story, reflecting my passion for the raw beauty of this art.</p>
+            <h6>Marble Sculptor</h6>
+          
+            <a href="#" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+
+        <div class="content">
+            <h3>Sebastian</h3>
+            <img src="~/imgBia/man3.png">
+            <p>In the colors and abstract shapes that I paint, I try to bring to life the sensations and thoughts that dance in my mind.</p>
+            <h6>Abstractionist painter</h6>
+          
+            <a href="#" class="View-profile">View Profile</a>
+            <a href="#" class="Change-Role Role">Change Role</a>
+        </div>
+    </div>
+</body>
+</html>
